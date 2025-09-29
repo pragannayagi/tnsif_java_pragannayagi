@@ -7,7 +7,7 @@ public class Oopsconceptdemo {
 		private int age;
 
 		// Getters and Setters method
-		public int getSerialNum() { // is used to get the var name & its return value
+		public int getSerialNum() { 
 			return serialNum;
 		}
 

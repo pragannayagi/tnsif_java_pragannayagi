@@ -16,6 +16,6 @@ package oops_abstraction;
 		void calArea() {
 			area=width*height;		
 		}
-	}
+}
 
 

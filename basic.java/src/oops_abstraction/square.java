@@ -2,8 +2,7 @@ package oops_abstraction;
 
 public class square extends shape{
 		private float side;
-		public square()
-		{
+		public square(){
 			side=2.0f;
 		}
 		public square(float side)

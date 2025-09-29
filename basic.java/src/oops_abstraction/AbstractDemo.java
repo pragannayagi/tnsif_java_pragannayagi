@@ -11,7 +11,7 @@ public class AbstractDemo {
 			r1.calArea();
 			r1.show();
 			
-			System.out.println("------------------------------------------------");
+			System.out.println("-----------------------------------------------");
 			
 			shape shape;
 			shape=new square(12.5f);

@@ -9,7 +9,7 @@ public abstract class shape {
 	 //concrete method
 	 void show()
 	 {
-		 System.out.println("Area of shape is "+area);
+		 System.out.println("Area of shape is: "+area);
 	 }
 	 
 
