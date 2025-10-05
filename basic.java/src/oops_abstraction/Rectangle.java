@@ -11,7 +11,6 @@ package oops_abstraction;
 			this.width = width;
 			this.height = height;
 		}
-
 		@Override
 		void calArea() {
 			area=width*height;		

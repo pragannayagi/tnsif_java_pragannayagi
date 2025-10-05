@@ -11,8 +11,4 @@ public abstract class shape {
 	 {
 		 System.out.println("Area of shape is: "+area);
 	 }
-	 
-
-
-
 }
