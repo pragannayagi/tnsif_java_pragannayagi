@@ -1,0 +1,14 @@
+package Threading.java;
+
+public class Mythread extends Thread {
+    public void run() {
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("Thread running: " + i);
+            try {
+                Thread.sleep(500);  // pause for half second
+            } catch (InterruptedException e) {
+                System.out.println(e);
+            }
+        }
+    }
+}
